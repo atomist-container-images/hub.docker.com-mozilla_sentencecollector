@@ -1,407 +1,416 @@
-# Tags: main-322b7f80-1641450400
-FROM mozilla/sentencecollector:main-322b7f80-1641450400
+# Tags: main-9837bac9-1648730662
+FROM mozilla/sentencecollector:main-9837bac9-1648730662
 
-# Tags: main-322b7f80-1641431965
-FROM mozilla/sentencecollector:main-322b7f80-1641431965
+# Tags: main-9837bac9-1648707994
+FROM mozilla/sentencecollector:main-9837bac9-1648707994
 
-# Tags: main-322b7f80-1641407162
-FROM mozilla/sentencecollector:main-322b7f80-1641407162
+# Tags: main-9837bac9-1648690984
+FROM mozilla/sentencecollector:main-9837bac9-1648690984
 
-# Tags: main-322b7f80-1641386141
-FROM mozilla/sentencecollector:main-322b7f80-1641386141
+# Tags: main-9837bac9-1648664783
+FROM mozilla/sentencecollector:main-9837bac9-1648664783
 
-# Tags: main-322b7f80-1641363996
-FROM mozilla/sentencecollector:main-322b7f80-1641363996
+# Tags: main-9837bac9-1648644205
+FROM mozilla/sentencecollector:main-9837bac9-1648644205
 
-# Tags: main-322b7f80-1641345292
-FROM mozilla/sentencecollector:main-322b7f80-1641345292
+# Tags: main-9837bac9-1648621665
+FROM mozilla/sentencecollector:main-9837bac9-1648621665
 
-# Tags: main-322b7f80-1641320753
-FROM mozilla/sentencecollector:main-322b7f80-1641320753
+# Tags: main-9837bac9-1648604803
+FROM mozilla/sentencecollector:main-9837bac9-1648604803
 
-# Tags: main-322b7f80-1641299701
-FROM mozilla/sentencecollector:main-322b7f80-1641299701
+# Tags: main-9837bac9-1648578387
+FROM mozilla/sentencecollector:main-9837bac9-1648578387
 
-# Tags: main-322b7f80-1641277568
-FROM mozilla/sentencecollector:main-322b7f80-1641277568
+# Tags: main-9837bac9-1648557856
+FROM mozilla/sentencecollector:main-9837bac9-1648557856
 
-# Tags: main-322b7f80-1641258786
-FROM mozilla/sentencecollector:main-322b7f80-1641258786
+# Tags: main-9837bac9-1648535213
+FROM mozilla/sentencecollector:main-9837bac9-1648535213
 
-# Tags: main-322b7f80-1641234350
-FROM mozilla/sentencecollector:main-322b7f80-1641234350
-
-# Tags: main-322b7f80-1641232689
-FROM mozilla/sentencecollector:main-322b7f80-1641232689
-
-# Tags: main-89ddfff8-1641213312
-FROM mozilla/sentencecollector:main-89ddfff8-1641213312
-
-# Tags: main-89ddfff8-1641191196
-FROM mozilla/sentencecollector:main-89ddfff8-1641191196
-
-# Tags: main-89ddfff8-1641172324
-FROM mozilla/sentencecollector:main-89ddfff8-1641172324
-
-# Tags: main-89ddfff8-1641147873
-FROM mozilla/sentencecollector:main-89ddfff8-1641147873
-
-# Tags: main-89ddfff8-1641126833
-FROM mozilla/sentencecollector:main-89ddfff8-1641126833
-
-# Tags: main-89ddfff8-1641104725
-FROM mozilla/sentencecollector:main-89ddfff8-1641104725
-
-# Tags: main-89ddfff8-1641086140
-FROM mozilla/sentencecollector:main-89ddfff8-1641086140
-
-# Tags: main-89ddfff8-1641061499
-FROM mozilla/sentencecollector:main-89ddfff8-1641061499
-
-# Tags: main-89ddfff8-1641040437
-FROM mozilla/sentencecollector:main-89ddfff8-1641040437
-
-# Tags: main-89ddfff8-1641018347
-FROM mozilla/sentencecollector:main-89ddfff8-1641018347
-
-# Tags: main-89ddfff8-1640999655
-FROM mozilla/sentencecollector:main-89ddfff8-1640999655
-
-# Tags: main-89ddfff8-1640975108
-FROM mozilla/sentencecollector:main-89ddfff8-1640975108
-
-# Tags: main-89ddfff8-1640954066
-FROM mozilla/sentencecollector:main-89ddfff8-1640954066
-
-# Tags: main-89ddfff8-1640931965
-FROM mozilla/sentencecollector:main-89ddfff8-1640931965
-
-# Tags: main-89ddfff8-1640913203
-FROM mozilla/sentencecollector:main-89ddfff8-1640913203
-
-# Tags: main-89ddfff8-1640888720
-FROM mozilla/sentencecollector:main-89ddfff8-1640888720
-
-# Tags: main-89ddfff8-1640867700
-FROM mozilla/sentencecollector:main-89ddfff8-1640867700
-
-# Tags: main-89ddfff8-1640845554
-FROM mozilla/sentencecollector:main-89ddfff8-1640845554
-
-# Tags: main-89ddfff8-1640826655
-FROM mozilla/sentencecollector:main-89ddfff8-1640826655
-
-# Tags: main-89ddfff8-1640802332
-FROM mozilla/sentencecollector:main-89ddfff8-1640802332
-
-# Tags: main-89ddfff8-1640781313
-FROM mozilla/sentencecollector:main-89ddfff8-1640781313
-
-# Tags: main-89ddfff8-1640759180
-FROM mozilla/sentencecollector:main-89ddfff8-1640759180
-
-# Tags: main-89ddfff8-1640740240
-FROM mozilla/sentencecollector:main-89ddfff8-1640740240
-
-# Tags: main-89ddfff8-1640715923
-FROM mozilla/sentencecollector:main-89ddfff8-1640715923
-
-# Tags: main-89ddfff8-1640694888
-FROM mozilla/sentencecollector:main-89ddfff8-1640694888
-
-# Tags: main-89ddfff8-1640672772
-FROM mozilla/sentencecollector:main-89ddfff8-1640672772
-
-# Tags: main-89ddfff8-1640653868
-FROM mozilla/sentencecollector:main-89ddfff8-1640653868
-
-# Tags: main-89ddfff8-1640629520
-FROM mozilla/sentencecollector:main-89ddfff8-1640629520
-
-# Tags: latest, v2, v2.14, v2.14.4
+# Tags: latest, v2, v2.17, v2.17.3
 FROM mozilla/sentencecollector:latest
 FROM mozilla/sentencecollector:v2
-FROM mozilla/sentencecollector:v2.14
-FROM mozilla/sentencecollector:v2.14.4
+FROM mozilla/sentencecollector:v2.17
+FROM mozilla/sentencecollector:v2.17.3
 
-# Tags: main-89ddfff8-1640586394
-FROM mozilla/sentencecollector:main-89ddfff8-1640586394
+# Tags: main-9837bac9-1648518435
+FROM mozilla/sentencecollector:main-9837bac9-1648518435
 
-# Tags: main-89ddfff8-1640567628
-FROM mozilla/sentencecollector:main-89ddfff8-1640567628
+# Tags: main-9837bac9-1648492219
+FROM mozilla/sentencecollector:main-9837bac9-1648492219
 
-# Tags: main-89ddfff8-1640549144
-FROM mozilla/sentencecollector:main-89ddfff8-1640549144
+# Tags: main-9837bac9-1648488349
+FROM mozilla/sentencecollector:main-9837bac9-1648488349
 
-# Tags: main-5acdb6a8-1640543074
-FROM mozilla/sentencecollector:main-5acdb6a8-1640543074
+# Tags: main-4f36a1aa-1648487585
+FROM mozilla/sentencecollector:main-4f36a1aa-1648487585
 
-# Tags: main-5acdb6a8-1640541245
-FROM mozilla/sentencecollector:main-5acdb6a8-1640541245
+# Tags: main-0ea776c7-1648471366
+FROM mozilla/sentencecollector:main-0ea776c7-1648471366
 
-# Tags: main-adece5bd-1640522012
-FROM mozilla/sentencecollector:main-adece5bd-1640522012
+# Tags: main-0ea776c7-1648448819
+FROM mozilla/sentencecollector:main-0ea776c7-1648448819
 
-# Tags: main-adece5bd-1640499917
-FROM mozilla/sentencecollector:main-adece5bd-1640499917
+# Tags: main-0ea776c7-1648432077
+FROM mozilla/sentencecollector:main-0ea776c7-1648432077
 
-# Tags: main-adece5bd-1640481334
-FROM mozilla/sentencecollector:main-adece5bd-1640481334
+# Tags: main-0ea776c7-1648405460
+FROM mozilla/sentencecollector:main-0ea776c7-1648405460
 
-# Tags: main-adece5bd-1640456691
-FROM mozilla/sentencecollector:main-adece5bd-1640456691
+# Tags: main-0ea776c7-1648395138
+FROM mozilla/sentencecollector:main-0ea776c7-1648395138
 
-# Tags: main-adece5bd-1640435596
-FROM mozilla/sentencecollector:main-adece5bd-1640435596
+# Tags: main-3f523144-1648394377
+FROM mozilla/sentencecollector:main-3f523144-1648394377
 
-# Tags: main-adece5bd-1640413525
-FROM mozilla/sentencecollector:main-adece5bd-1640413525
+# Tags: main-e25b8f25-1648391756
+FROM mozilla/sentencecollector:main-e25b8f25-1648391756
 
-# Tags: main-adece5bd-1640394584
-FROM mozilla/sentencecollector:main-adece5bd-1640394584
+# Tags: v2.17.2
+FROM mozilla/sentencecollector:v2.17.2
 
-# Tags: main-adece5bd-1640370309
-FROM mozilla/sentencecollector:main-adece5bd-1640370309
+# Tags: main-1aaf079f-1648388385
+FROM mozilla/sentencecollector:main-1aaf079f-1648388385
 
-# Tags: main-adece5bd-1640349279
-FROM mozilla/sentencecollector:main-adece5bd-1640349279
+# Tags: main-30bb4a9a-1648388346
+FROM mozilla/sentencecollector:main-30bb4a9a-1648388346
 
-# Tags: main-adece5bd-1640327175
-FROM mozilla/sentencecollector:main-adece5bd-1640327175
+# Tags: main-9e8e7230-1648384428
+FROM mozilla/sentencecollector:main-9e8e7230-1648384428
 
-# Tags: main-adece5bd-1640308216
-FROM mozilla/sentencecollector:main-adece5bd-1640308216
+# Tags: main-9e8e7230-1648382390
+FROM mozilla/sentencecollector:main-9e8e7230-1648382390
 
-# Tags: main-adece5bd-1640283930
-FROM mozilla/sentencecollector:main-adece5bd-1640283930
+# Tags: main-a040b74a-1648362314
+FROM mozilla/sentencecollector:main-a040b74a-1648362314
 
-# Tags: main-adece5bd-1640262919
-FROM mozilla/sentencecollector:main-adece5bd-1640262919
+# Tags: main-a040b74a-1648345315
+FROM mozilla/sentencecollector:main-a040b74a-1648345315
 
-# Tags: main-adece5bd-1640240763
-FROM mozilla/sentencecollector:main-adece5bd-1640240763
+# Tags: main-a040b74a-1648339504
+FROM mozilla/sentencecollector:main-a040b74a-1648339504
 
-# Tags: main-adece5bd-1640221873
-FROM mozilla/sentencecollector:main-adece5bd-1640221873
+# Tags: main-cfbac0c8-1648319067
+FROM mozilla/sentencecollector:main-cfbac0c8-1648319067
 
-# Tags: main-adece5bd-1640197539
-FROM mozilla/sentencecollector:main-adece5bd-1640197539
+# Tags: main-78de04ae-1648300346
+FROM mozilla/sentencecollector:main-78de04ae-1648300346
 
-# Tags: main-adece5bd-1640176506
-FROM mozilla/sentencecollector:main-adece5bd-1640176506
+# Tags: main-636162a3-1648300337
+FROM mozilla/sentencecollector:main-636162a3-1648300337
 
-# Tags: main-adece5bd-1640154385
-FROM mozilla/sentencecollector:main-adece5bd-1640154385
+# Tags: main-cfbac0c8-1648300354
+FROM mozilla/sentencecollector:main-cfbac0c8-1648300354
 
-# Tags: main-adece5bd-1640135578
-FROM mozilla/sentencecollector:main-adece5bd-1640135578
+# Tags: main-8d61e1da-1648298181
+FROM mozilla/sentencecollector:main-8d61e1da-1648298181
 
-# Tags: main-adece5bd-1640111137
-FROM mozilla/sentencecollector:main-adece5bd-1640111137
+# Tags: main-615b3250-1648297997
+FROM mozilla/sentencecollector:main-615b3250-1648297997
 
-# Tags: main-adece5bd-1640090117
-FROM mozilla/sentencecollector:main-adece5bd-1640090117
+# Tags: main-615b3250-1648275916
+FROM mozilla/sentencecollector:main-615b3250-1648275916
 
-# Tags: main-adece5bd-1640067966
-FROM mozilla/sentencecollector:main-adece5bd-1640067966
+# Tags: main-615b3250-1648258719
+FROM mozilla/sentencecollector:main-615b3250-1648258719
 
-# Tags: main-adece5bd-1640049222
-FROM mozilla/sentencecollector:main-adece5bd-1640049222
+# Tags: main-615b3250-1648232784
+FROM mozilla/sentencecollector:main-615b3250-1648232784
 
-# Tags: main-adece5bd-1640024752
-FROM mozilla/sentencecollector:main-adece5bd-1640024752
+# Tags: main-615b3250-1648213682
+FROM mozilla/sentencecollector:main-615b3250-1648213682
 
-# Tags: main-adece5bd-1640003757
-FROM mozilla/sentencecollector:main-adece5bd-1640003757
+# Tags: main-615b3250-1648189609
+FROM mozilla/sentencecollector:main-615b3250-1648189609
 
-# Tags: main-adece5bd-1639981575
-FROM mozilla/sentencecollector:main-adece5bd-1639981575
+# Tags: main-615b3250-1648172212
+FROM mozilla/sentencecollector:main-615b3250-1648172212
 
-# Tags: main-adece5bd-1639962716
-FROM mozilla/sentencecollector:main-adece5bd-1639962716
+# Tags: main-615b3250-1648146352
+FROM mozilla/sentencecollector:main-615b3250-1648146352
 
-# Tags: main-adece5bd-1639938265
-FROM mozilla/sentencecollector:main-adece5bd-1639938265
+# Tags: main-615b3250-1648125472
+FROM mozilla/sentencecollector:main-615b3250-1648125472
 
-# Tags: main-adece5bd-1639917225
-FROM mozilla/sentencecollector:main-adece5bd-1639917225
+# Tags: main-615b3250-1648103174
+FROM mozilla/sentencecollector:main-615b3250-1648103174
 
-# Tags: main-adece5bd-1639895118
-FROM mozilla/sentencecollector:main-adece5bd-1639895118
+# Tags: main-615b3250-1648085942
+FROM mozilla/sentencecollector:main-615b3250-1648085942
 
-# Tags: main-adece5bd-1639876544
-FROM mozilla/sentencecollector:main-adece5bd-1639876544
+# Tags: main-615b3250-1648060012
+FROM mozilla/sentencecollector:main-615b3250-1648060012
 
-# Tags: main-adece5bd-1639851882
-FROM mozilla/sentencecollector:main-adece5bd-1639851882
+# Tags: main-615b3250-1648039334
+FROM mozilla/sentencecollector:main-615b3250-1648039334
 
-# Tags: main-adece5bd-1639830778
-FROM mozilla/sentencecollector:main-adece5bd-1639830778
+# Tags: main-615b3250-1648016795
+FROM mozilla/sentencecollector:main-615b3250-1648016795
 
-# Tags: main-adece5bd-1639808758
-FROM mozilla/sentencecollector:main-adece5bd-1639808758
+# Tags: main-615b3250-1647999856
+FROM mozilla/sentencecollector:main-615b3250-1647999856
 
-# Tags: main-adece5bd-1639790035
-FROM mozilla/sentencecollector:main-adece5bd-1639790035
+# Tags: main-615b3250-1647973807
+FROM mozilla/sentencecollector:main-615b3250-1647973807
 
-# Tags: main-adece5bd-1639765483
-FROM mozilla/sentencecollector:main-adece5bd-1639765483
+# Tags: main-615b3250-1647952619
+FROM mozilla/sentencecollector:main-615b3250-1647952619
 
-# Tags: main-adece5bd-1639744420
-FROM mozilla/sentencecollector:main-adece5bd-1639744420
+# Tags: main-615b3250-1647930344
+FROM mozilla/sentencecollector:main-615b3250-1647930344
 
-# Tags: main-adece5bd-1639722337
-FROM mozilla/sentencecollector:main-adece5bd-1639722337
+# Tags: main-615b3250-1647913191
+FROM mozilla/sentencecollector:main-615b3250-1647913191
 
-# Tags: main-adece5bd-1639703516
-FROM mozilla/sentencecollector:main-adece5bd-1639703516
+# Tags: main-615b3250-1647887161
+FROM mozilla/sentencecollector:main-615b3250-1647887161
 
-# Tags: main-adece5bd-1639679099
-FROM mozilla/sentencecollector:main-adece5bd-1639679099
+# Tags: main-615b3250-1647866418
+FROM mozilla/sentencecollector:main-615b3250-1647866418
 
-# Tags: main-adece5bd-1639658053
-FROM mozilla/sentencecollector:main-adece5bd-1639658053
+# Tags: main-615b3250-1647843997
+FROM mozilla/sentencecollector:main-615b3250-1647843997
 
-# Tags: main-adece5bd-1639635921
-FROM mozilla/sentencecollector:main-adece5bd-1639635921
+# Tags: main-615b3250-1647826872
+FROM mozilla/sentencecollector:main-615b3250-1647826872
 
-# Tags: main-adece5bd-1639616952
-FROM mozilla/sentencecollector:main-adece5bd-1639616952
+# Tags: main-615b3250-1647800684
+FROM mozilla/sentencecollector:main-615b3250-1647800684
 
-# Tags: main-adece5bd-1639592708
-FROM mozilla/sentencecollector:main-adece5bd-1639592708
+# Tags: main-615b3250-1647779576
+FROM mozilla/sentencecollector:main-615b3250-1647779576
 
-# Tags: main-adece5bd-1639571645
-FROM mozilla/sentencecollector:main-adece5bd-1639571645
+# Tags: main-615b3250-1647757498
+FROM mozilla/sentencecollector:main-615b3250-1647757498
 
-# Tags: main-adece5bd-1639549478
-FROM mozilla/sentencecollector:main-adece5bd-1639549478
+# Tags: main-615b3250-1647739600
+FROM mozilla/sentencecollector:main-615b3250-1647739600
 
-# Tags: main-adece5bd-1639530538
-FROM mozilla/sentencecollector:main-adece5bd-1639530538
+# Tags: main-615b3250-1647714258
+FROM mozilla/sentencecollector:main-615b3250-1647714258
 
-# Tags: main-adece5bd-1639506309
-FROM mozilla/sentencecollector:main-adece5bd-1639506309
+# Tags: main-615b3250-1647693223
+FROM mozilla/sentencecollector:main-615b3250-1647693223
 
-# Tags: main-adece5bd-1639485228
-FROM mozilla/sentencecollector:main-adece5bd-1639485228
+# Tags: main-615b3250-1647671088
+FROM mozilla/sentencecollector:main-615b3250-1647671088
 
-# Tags: main-adece5bd-1639463110
-FROM mozilla/sentencecollector:main-adece5bd-1639463110
+# Tags: main-615b3250-1647652935
+FROM mozilla/sentencecollector:main-615b3250-1647652935
 
-# Tags: main-adece5bd-1639444376
-FROM mozilla/sentencecollector:main-adece5bd-1639444376
+# Tags: main-615b3250-1647627921
+FROM mozilla/sentencecollector:main-615b3250-1647627921
 
-# Tags: main-adece5bd-1639419896
-FROM mozilla/sentencecollector:main-adece5bd-1639419896
+# Tags: main-615b3250-1647606882
+FROM mozilla/sentencecollector:main-615b3250-1647606882
 
-# Tags: main-adece5bd-1639398858
-FROM mozilla/sentencecollector:main-adece5bd-1639398858
+# Tags: main-615b3250-1647584744
+FROM mozilla/sentencecollector:main-615b3250-1647584744
 
-# Tags: main-adece5bd-1639376741
-FROM mozilla/sentencecollector:main-adece5bd-1639376741
+# Tags: main-615b3250-1647567348
+FROM mozilla/sentencecollector:main-615b3250-1647567348
 
-# Tags: main-adece5bd-1639357768
-FROM mozilla/sentencecollector:main-adece5bd-1639357768
+# Tags: main-615b3250-1647541724
+FROM mozilla/sentencecollector:main-615b3250-1647541724
 
-# Tags: main-adece5bd-1639333439
-FROM mozilla/sentencecollector:main-adece5bd-1639333439
+# Tags: main-615b3250-1647520626
+FROM mozilla/sentencecollector:main-615b3250-1647520626
 
-# Tags: main-adece5bd-1639312353
-FROM mozilla/sentencecollector:main-adece5bd-1639312353
+# Tags: main-615b3250-1647498344
+FROM mozilla/sentencecollector:main-615b3250-1647498344
 
-# Tags: main-adece5bd-1639290279
-FROM mozilla/sentencecollector:main-adece5bd-1639290279
+# Tags: main-615b3250-1647480273
+FROM mozilla/sentencecollector:main-615b3250-1647480273
 
-# Tags: main-adece5bd-1639271564
-FROM mozilla/sentencecollector:main-adece5bd-1639271564
+# Tags: main-615b3250-1647455135
+FROM mozilla/sentencecollector:main-615b3250-1647455135
 
-# Tags: main-adece5bd-1639247045
-FROM mozilla/sentencecollector:main-adece5bd-1639247045
+# Tags: main-615b3250-1647434147
+FROM mozilla/sentencecollector:main-615b3250-1647434147
 
-# Tags: main-adece5bd-1639225949
-FROM mozilla/sentencecollector:main-adece5bd-1639225949
+# Tags: main-615b3250-1647411957
+FROM mozilla/sentencecollector:main-615b3250-1647411957
 
-# Tags: main-adece5bd-1639203883
-FROM mozilla/sentencecollector:main-adece5bd-1639203883
+# Tags: main-615b3250-1647394505
+FROM mozilla/sentencecollector:main-615b3250-1647394505
 
-# Tags: main-adece5bd-1639184899
-FROM mozilla/sentencecollector:main-adece5bd-1639184899
+# Tags: main-615b3250-1647368917
+FROM mozilla/sentencecollector:main-615b3250-1647368917
 
-# Tags: main-adece5bd-1639160700
-FROM mozilla/sentencecollector:main-adece5bd-1639160700
+# Tags: main-615b3250-1647347793
+FROM mozilla/sentencecollector:main-615b3250-1647347793
 
-# Tags: main-adece5bd-1639139625
-FROM mozilla/sentencecollector:main-adece5bd-1639139625
+# Tags: main-615b3250-1647325553
+FROM mozilla/sentencecollector:main-615b3250-1647325553
 
-# Tags: main-adece5bd-1639117520
-FROM mozilla/sentencecollector:main-adece5bd-1639117520
+# Tags: main-615b3250-1647307560
+FROM mozilla/sentencecollector:main-615b3250-1647307560
 
-# Tags: main-adece5bd-1639098591
-FROM mozilla/sentencecollector:main-adece5bd-1639098591
+# Tags: main-615b3250-1647282462
+FROM mozilla/sentencecollector:main-615b3250-1647282462
 
-# Tags: main-adece5bd-1639074338
-FROM mozilla/sentencecollector:main-adece5bd-1639074338
+# Tags: main-615b3250-1647261485
+FROM mozilla/sentencecollector:main-615b3250-1647261485
 
-# Tags: main-adece5bd-1639068187
-FROM mozilla/sentencecollector:main-adece5bd-1639068187
+# Tags: main-615b3250-1647239194
+FROM mozilla/sentencecollector:main-615b3250-1647239194
 
-# Tags: v2.14.3
-FROM mozilla/sentencecollector:v2.14.3
+# Tags: main-615b3250-1647221030
+FROM mozilla/sentencecollector:main-615b3250-1647221030
 
-# Tags: main-a11236da-1639067461
-FROM mozilla/sentencecollector:main-a11236da-1639067461
+# Tags: main-615b3250-1647195836
+FROM mozilla/sentencecollector:main-615b3250-1647195836
 
-# Tags: main-5deba831-1639053261
-FROM mozilla/sentencecollector:main-5deba831-1639053261
+# Tags: main-615b3250-1647174779
+FROM mozilla/sentencecollector:main-615b3250-1647174779
 
-# Tags: main-5deba831-1639031135
-FROM mozilla/sentencecollector:main-5deba831-1639031135
+# Tags: main-615b3250-1647152880
+FROM mozilla/sentencecollector:main-615b3250-1647152880
 
-# Tags: main-5deba831-1639012170
-FROM mozilla/sentencecollector:main-5deba831-1639012170
+# Tags: main-615b3250-1647134326
+FROM mozilla/sentencecollector:main-615b3250-1647134326
 
-# Tags: main-5deba831-1638987923
-FROM mozilla/sentencecollector:main-5deba831-1638987923
+# Tags: main-615b3250-1647109438
+FROM mozilla/sentencecollector:main-615b3250-1647109438
 
-# Tags: main-5deba831-1638966862
-FROM mozilla/sentencecollector:main-5deba831-1638966862
+# Tags: main-615b3250-1647088363
+FROM mozilla/sentencecollector:main-615b3250-1647088363
 
-# Tags: main-5deba831-1638944743
-FROM mozilla/sentencecollector:main-5deba831-1638944743
+# Tags: main-615b3250-1647066316
+FROM mozilla/sentencecollector:main-615b3250-1647066316
 
-# Tags: main-5deba831-1638925854
-FROM mozilla/sentencecollector:main-5deba831-1638925854
+# Tags: main-615b3250-1647047757
+FROM mozilla/sentencecollector:main-615b3250-1647047757
 
-# Tags: v2.14.2
-FROM mozilla/sentencecollector:v2.14.2
+# Tags: main-615b3250-1647023111
+FROM mozilla/sentencecollector:main-615b3250-1647023111
 
-# Tags: main-5deba831-1638902488
-FROM mozilla/sentencecollector:main-5deba831-1638902488
+# Tags: main-615b3250-1647002086
+FROM mozilla/sentencecollector:main-615b3250-1647002086
 
-# Tags: main-9f2e98a3-1638902310
-FROM mozilla/sentencecollector:main-9f2e98a3-1638902310
+# Tags: main-615b3250-1646979957
+FROM mozilla/sentencecollector:main-615b3250-1646979957
 
-# Tags: main-839bc13a-1638901561
-FROM mozilla/sentencecollector:main-839bc13a-1638901561
+# Tags: main-615b3250-1646962366
+FROM mozilla/sentencecollector:main-615b3250-1646962366
 
-# Tags: main-839bc13a-1638899000
-FROM mozilla/sentencecollector:main-839bc13a-1638899000
+# Tags: main-615b3250-1646936701
+FROM mozilla/sentencecollector:main-615b3250-1646936701
 
-# Tags: main-02f90318-1638898848
-FROM mozilla/sentencecollector:main-02f90318-1638898848
+# Tags: main-615b3250-1646915724
+FROM mozilla/sentencecollector:main-615b3250-1646915724
 
-# Tags: main-d5679cf6-1638880589
-FROM mozilla/sentencecollector:main-d5679cf6-1638880589
+# Tags: main-615b3250-1646893530
+FROM mozilla/sentencecollector:main-615b3250-1646893530
 
-# Tags: main-d5679cf6-1638858371
-FROM mozilla/sentencecollector:main-d5679cf6-1638858371
+# Tags: main-615b3250-1646876133
+FROM mozilla/sentencecollector:main-615b3250-1646876133
 
-# Tags: main-d5679cf6-1638839527
-FROM mozilla/sentencecollector:main-d5679cf6-1638839527
+# Tags: main-615b3250-1646850313
+FROM mozilla/sentencecollector:main-615b3250-1646850313
 
-# Tags: main-d5679cf6-1638815095
-FROM mozilla/sentencecollector:main-d5679cf6-1638815095
+# Tags: main-615b3250-1646829291
+FROM mozilla/sentencecollector:main-615b3250-1646829291
 
-# Tags: main-d5679cf6-1638794058
-FROM mozilla/sentencecollector:main-d5679cf6-1638794058
+# Tags: main-615b3250-1646807135
+FROM mozilla/sentencecollector:main-615b3250-1646807135
+
+# Tags: main-615b3250-1646789061
+FROM mozilla/sentencecollector:main-615b3250-1646789061
+
+# Tags: main-615b3250-1646763904
+FROM mozilla/sentencecollector:main-615b3250-1646763904
+
+# Tags: main-615b3250-1646742937
+FROM mozilla/sentencecollector:main-615b3250-1646742937
+
+# Tags: main-615b3250-1646720732
+FROM mozilla/sentencecollector:main-615b3250-1646720732
+
+# Tags: main-615b3250-1646702452
+FROM mozilla/sentencecollector:main-615b3250-1646702452
+
+# Tags: main-615b3250-1646677500
+FROM mozilla/sentencecollector:main-615b3250-1646677500
+
+# Tags: main-615b3250-1646656485
+FROM mozilla/sentencecollector:main-615b3250-1646656485
+
+# Tags: main-615b3250-1646634372
+FROM mozilla/sentencecollector:main-615b3250-1646634372
+
+# Tags: main-615b3250-1646616078
+FROM mozilla/sentencecollector:main-615b3250-1646616078
+
+# Tags: main-615b3250-1646591012
+FROM mozilla/sentencecollector:main-615b3250-1646591012
+
+# Tags: main-615b3250-1646569955
+FROM mozilla/sentencecollector:main-615b3250-1646569955
+
+# Tags: main-615b3250-1646547867
+FROM mozilla/sentencecollector:main-615b3250-1646547867
+
+# Tags: main-615b3250-1646529578
+FROM mozilla/sentencecollector:main-615b3250-1646529578
+
+# Tags: main-615b3250-1646504622
+FROM mozilla/sentencecollector:main-615b3250-1646504622
+
+# Tags: main-615b3250-1646483527
+FROM mozilla/sentencecollector:main-615b3250-1646483527
+
+# Tags: main-615b3250-1646461477
+FROM mozilla/sentencecollector:main-615b3250-1646461477
+
+# Tags: main-615b3250-1646443266
+FROM mozilla/sentencecollector:main-615b3250-1646443266
+
+# Tags: main-615b3250-1646418291
+FROM mozilla/sentencecollector:main-615b3250-1646418291
+
+# Tags: main-615b3250-1646397274
+FROM mozilla/sentencecollector:main-615b3250-1646397274
+
+# Tags: main-615b3250-1646375125
+FROM mozilla/sentencecollector:main-615b3250-1646375125
+
+# Tags: main-615b3250-1646357739
+FROM mozilla/sentencecollector:main-615b3250-1646357739
+
+# Tags: main-615b3250-1646332155
+FROM mozilla/sentencecollector:main-615b3250-1646332155
+
+# Tags: main-615b3250-1646311157
+FROM mozilla/sentencecollector:main-615b3250-1646311157
+
+# Tags: main-615b3250-1646289636
+FROM mozilla/sentencecollector:main-615b3250-1646289636
+
+# Tags: main-615b3250-1646270899
+FROM mozilla/sentencecollector:main-615b3250-1646270899
+
+# Tags: main-615b3250-1646245821
+FROM mozilla/sentencecollector:main-615b3250-1646245821
+
+# Tags: main-615b3250-1646224759
+FROM mozilla/sentencecollector:main-615b3250-1646224759
+
+# Tags: main-615b3250-1646202623
+FROM mozilla/sentencecollector:main-615b3250-1646202623
+
+# Tags: main-615b3250-1646184440
+FROM mozilla/sentencecollector:main-615b3250-1646184440
+
+# Tags: main-615b3250-1646159299
+FROM mozilla/sentencecollector:main-615b3250-1646159299
+
+# Tags: main-615b3250-1646138340
+FROM mozilla/sentencecollector:main-615b3250-1646138340
+
+# Tags: main-615b3250-1646116215
+FROM mozilla/sentencecollector:main-615b3250-1646116215
+
+# Tags: main-615b3250-1646098699
+FROM mozilla/sentencecollector:main-615b3250-1646098699
